@@ -65,5 +65,4 @@
 [1]	2021年度河南省高校哲学社会科学优秀研究成果三等奖（第二完成人）；<br>
 [2]	2017 年“中国国防船舶科技报告-二级”（第一完成人）。
 
-gem 'jekyll-theme-hacker', '~> 0.2.0'
-gem install jekyll-theme-hacker
+theme: jekyll-theme-minimal
