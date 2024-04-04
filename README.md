@@ -18,7 +18,7 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 - Guest Editor, Plos One,<br>
 - SRSE Technical Program Committee Members (International Conference on System Reliability and Safety Engineering: SRSE); <br>
 - APARM Session Moderator (The Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling), QE2MSE Session Moderator (International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering: QE2MSE)；<br>
-- IISE (Member)；IEEE Reliability Society (Member)；IEEE Industrial Electronics Society (Member)；IEEE Computational Intelligence Society (Member)；中国运筹学会可靠性分会会员；中国优选法统筹法与经济数学研究会工业工程分会会员；<br>
+- IISE (Member)；IEEE Reliability Society (Member)；IEEE Industrial Electronics Society (Member)；IEEE Computational Intelligence Society (Member)；Operations Research Society of China(Member)；Chinese Society of Optimization, Overall Planning and Economic Mathematics（Member）；<br>
 - Refree: Reliability Engineering & System Safety, Quality Technology & Quantitative Management, Journal of Computing and Information Science in Engineering, Forschung im Ingenieurwesen, Journal of Intellectual Capital.<br>
 
 
@@ -41,8 +41,8 @@ http://www7.zzu.edu.cn/glxy/info/1501/5176.htm
 # Publications
 **Journal Papers**：<br>
 - Yongwei Ke, Xin Wang, **Zhenggeng Ye***, Shuai Zhang, Zhiqiang Cai. Binary decision diagram-based reliability modeling of phased-mission manufacturing system processing multi-type products. Quality Technology & Quantitative Management. Online.<br>
-- **Zhenggeng Ye**, Zhiqiang Cai, Hui Yang, Shubin Si, Fuli Zhou. Joint optimization of maintenance and quality inspection for manufacturing networks based on deep reinforcement learning. Reliability Engineering & System Safety. 2023, 236, 109290。<br>
-- **Zhenggeng Ye**, Shubin Si, Hui Yang, Zhiqiang Cai, Fuli Zhou. Machine and Feedstock Interdependence Modeling for Manufacturing Networks Performance Analysis [J]. IEEE Transactions on Industrial Informatics. 2022, 18(8): 5067-5076。<br>
+- **Zhenggeng Ye**, Zhiqiang Cai, Hui Yang, Shubin Si, Fuli Zhou. Joint optimization of maintenance and quality inspection for manufacturing networks based on deep reinforcement learning. Reliability Engineering & System Safety. 2023, 236, 109290.<br>
+- **Zhenggeng Ye**, Shubin Si, Hui Yang, Zhiqiang Cai, Fuli Zhou. Machine and Feedstock Interdependence Modeling for Manufacturing Networks Performance Analysis [J]. IEEE Transactions on Industrial Informatics. 2022, 18(8): 5067-5076.<br>
 - **Zhenggeng Ye**, Zhiqiang Cai, Shubin Si, Fuli Zhou. Operational Reliability and Quality Loss of Diversely Configurated Manufacturing Cells with Heterogeneous Feedstocks [J]. Proceedings of the Institution of Mechanical Engineers Part O: Journal of Risk and Reliability. 2022;236(6):955-967.<br>
 - **Zhenggeng Ye**, Hui Yang, Zhiqiang Cai, Shubin Si, Fuli Zhou. Performance evaluation of serial-parallel manufacturing systems based on the impact of heterogeneous feedstocks on machine degradation[J]. Reliability Engineering & System Safety, 2021, 207: 107319.<br> 
 - **Zhenggeng Ye**, Zhiqiang Cai, Shubin Si, Shuai Zhang, Hui Yang. Competing failure modeling for performance analysis of automated manufacturing systems with serial structures and imperfect quality inspection[J]. IEEE Transactions on Industrial Informatics, 2020, 16(10): 6476-6486. <br>
@@ -64,12 +64,12 @@ http://www7.zzu.edu.cn/glxy/info/1501/5176.htm
 - 蔡志强; 韩思杰; 王宇航; 司书宾; 张帅; **叶正梗**. 基于贝叶斯分类器链的涡轴发动机多目标性能预测方法；2021-02-02, 中国, CN202110140394.0.（授权）
 
 # Presentations：
-- 2022年中国统筹法优选法及经济数学学会工业工程分会学术交流暨学会年会, 2022.11，“工况监测驱动下的设备动态可靠性评价方法”。<br>
+- 2022年中国统筹法优选法及经济数学学会工业工程分会学术交流暨学会年会, 2022.11，“工况监测驱动下的设备动态可靠性评价方法”.<br>
 - IISE Annual Conference & Expo, 2021.05， “Machine Dependence Caused by Low-quality Feedstocks in Manufacturing Networks” .<br>
-- The 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM)， 2020.08， “ Reliability Analysis of Manufacturing Machine with Degradation and Low-quality Feedstocks”；<br>
-- The 66th Annual Reliability & Maintainability Symposium (RAMS)，2020.01， “Degradation Analysis of Machine Processing Accuracy for Manufacturing Systems with Effect of Unqualified Products”；<br>
-- The 4rd Sino-US Research Conference on Quality, Analytics and Innovations，2019.05，“Competing Failure Modeling for Performance Analysis of Manufacturing Systems”；<br>
-- 清华大学主办“ 2018 年全国工业工程博士生学术论坛-暨优秀青年学者学术沙龙”，2018，“ 基于多层次复杂度的工时定额综合研究”。<br>
+- The 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM)， 2020.08， “ Reliability Analysis of Manufacturing Machine with Degradation and Low-quality Feedstocks”.<br>
+- The 66th Annual Reliability & Maintainability Symposium (RAMS)，2020.01， “Degradation Analysis of Machine Processing Accuracy for Manufacturing Systems with Effect of Unqualified Products”.<br>
+- The 4rd Sino-US Research Conference on Quality, Analytics and Innovations，2019.05，“Competing Failure Modeling for Performance Analysis of Manufacturing Systems”.<br>
+- 清华大学主办“ 2018 年全国工业工程博士生学术论坛-暨优秀青年学者学术沙龙”，2018，“ 基于多层次复杂度的工时定额综合研究”.<br>
 
 # Rewards:
 - 2023年度郑州大学创新创业先进工作者；<br>
