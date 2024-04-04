@@ -53,7 +53,7 @@ http://www7.zzu.edu.cn/glxy/info/1501/5176.htm
 -周福礼, 王旭, **叶正梗**, 林云, 何彦东. 基于系统动力学仿真的国产汽车质量经济性研究[J]. 计算机集成制造系统, 2019, 25(2): 508-519. <br>
 -孔繁森, **叶正梗**. 生产作业可操作性评价理论方法框架模型研究[J]. 机械工程学报, 2017, 4: 028.<br>
 
-**Conference paper**：<br>
+**Conference papers**：<br>
 -**Zhenggeng Ye**, Yongwei Ke, Xin wang, Zhiqiang Cai. Sensor monitoring driven identification of heterogeneous working conditions for machine tool [C]. 13th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2023), IET, 2023. <br>
 -**Zhenggeng Ye**, Zhiqiang Cai, Fuli Zhou, Pan Zhang. Degradation Analysis of Machine Processing Accuracy for Manufacturing Systems with Effect of Unqualified Products [C]. 2020 Annual Reliability and Maintainability Symposium (RAMS). IEEE, 2020: 1-6. <br>
 -**Zhenggeng Ye**, Zhiqiang Cai, Hui Yang. Reliability Analysis of Manufacturing Machine with Degradation and Low-quality Feedstocks [C]. 2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM). IEEE, 2020: 1-5.<br>
