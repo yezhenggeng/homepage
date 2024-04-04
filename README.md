@@ -1,15 +1,15 @@
 # ZHENGGENG YE
 
  
-# Dr. Zhenggeng Ye
-# Associate Professor
-# Department of Industrial Engineering, School of Management, Zhengzhou University.
-# E-mail:yezhenggeng@zzu.edu.cn
+Dr. Zhenggeng Ye <br>
+Associate Professor <br>
+Department of Industrial Engineering, School of Management, Zhengzhou University, Zhengzhou, China. <br>
+E-mail:yezhenggeng@zzu.edu.cn
 
 # Research Interests: 
 His research interests includes quality and reliability modeling, analysis and optimization in manufacturing systems, containing the method of probability theory, stochastic process, industrial big data analysis, optimization algorithm, and machine learning.
 
-#Biography:
+# Biography:
 Zhenggeng Ye received his Ph.D degree in management science and engineering from Northwestern Polytechnical University(NPU), Xi’an, China in 2021, received his B.E. degree and M.E. degree in mechanical engineering from Henan University of Science and Technology in 2012 and Jilin University in 2015, respectively. He is currently an Associate Professor of Industrial Engineering with the School of Management, Zhengzhou University, China. He was also a visiting scholar at Department of Industrial and Manufacturing Engineering at the Pennsylvania State University from 2019 to 2021. Besides, he was also an assistant engineer  at Zhengzhou Institute of Mechanical and Electrical Engineering from 2015 to 2018. 
 
 # Professional Activities:
