@@ -21,14 +21,6 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 - IISE (Member)；IEEE Reliability Society (Member)；IEEE Industrial Electronics Society (Member)；IEEE Computational Intelligence Society (Member)；Operations Research Society of China (Member)；Chinese Society of Optimization, Overall Planning and Economic Mathematics（Member）；<br>
 - Refree: Reliability Engineering & System Safety, Quality Technology & Quantitative Management, Journal of Computing and Information Science in Engineering, Forschung im Ingenieurwesen, Journal of Intellectual Capital.<br>
 
-# Honors and Awards:
-- 2023年度郑州大学创新创业先进工作者；<br>
-- 2023年中国专业学位案例中心收录案例：“数”“智”助推制造业转型升级——格力电器（郑州）的数字化工厂变革之路（第一完成人）；<br>
-- 2023年度第十六届挑战杯河南省大学生课外学术作品优秀指导教师：基于深度学习的加工中心刀具磨损量预测及其工业应用（河南省一等奖）；<br>
-- 2021年度河南省高校哲学社会科学优秀研究成果三等奖（第二完成人）；<br>
-- 2021年度西北工业大学优秀毕业生；<br>
-- 2017年“中国国防船舶科技报告-二级”（第一完成人）。<br>
-
 # Teaching
 《Applied Statistics 》、《Industrial Design Foundation》。
 
@@ -73,6 +65,14 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 - The 66th Annual Reliability & Maintainability Symposium (RAMS)，2020.01， “Degradation Analysis of Machine Processing Accuracy for Manufacturing Systems with Effect of Unqualified Products”.<br>
 - The 4rd Sino-US Research Conference on Quality, Analytics and Innovations，2019.05，“Competing Failure Modeling for Performance Analysis of Manufacturing Systems”.<br>
 - 清华大学主办“ 2018 年全国工业工程博士生学术论坛-暨优秀青年学者学术沙龙”，2018，“ 基于多层次复杂度的工时定额综合研究”.<br>
+
+# Honors and Awards:
+- 2023年度郑州大学创新创业先进工作者；<br>
+- 2023年中国专业学位案例中心收录案例：“数”“智”助推制造业转型升级——格力电器（郑州）的数字化工厂变革之路（第一完成人）；<br>
+- 2023年度第十六届挑战杯河南省大学生课外学术作品优秀指导教师：基于深度学习的加工中心刀具磨损量预测及其工业应用（河南省一等奖）；<br>
+- 2021年度河南省高校哲学社会科学优秀研究成果三等奖（第二完成人）；<br>
+- 2021年度西北工业大学优秀毕业生；<br>
+- 2017年“中国国防船舶科技报告-二级”（第一完成人）。<br>
 
 # Personal Pages： 
 https://www.researchgate.net/profile/Zhenggeng-Ye <br>
