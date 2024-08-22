@@ -35,6 +35,7 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 
 # Publications
 **Journal Papers**：<br>
+- Xin Wang, Yongwei Ke, Zhiqiang Cai, **Zhenggeng Ye***. Operation Risk Assessment of Flexible Manufacturing Networks Subject to Quality-reliability Coupling. Reliability Engineering & System Safety. 2024, 250, 110282.<br>
 - Yongwei Ke, Xin Wang, **Zhenggeng Ye***, Shuai Zhang, Zhiqiang Cai. Binary decision diagram-based reliability modeling of phased-mission manufacturing system processing multi-type products. Quality Technology & Quantitative Management. Online.<br>
 - **Zhenggeng Ye**, Zhiqiang Cai, Hui Yang, Shubin Si, Fuli Zhou. Joint optimization of maintenance and quality inspection for manufacturing networks based on deep reinforcement learning. Reliability Engineering & System Safety. 2023, 236, 109290.<br>
 - **Zhenggeng Ye**, Shubin Si, Hui Yang, Zhiqiang Cai, Fuli Zhou. Machine and Feedstock Interdependence Modeling for Manufacturing Networks Performance Analysis [J]. IEEE Transactions on Industrial Informatics. 2022, 18(8): 5067-5076.<br>
