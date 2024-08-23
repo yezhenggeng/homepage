@@ -14,12 +14,12 @@ His research interests includes mechanism-based and sensor-based modeling and an
 Zhenggeng Ye received his Ph.D degree in management science and engineering from Northwestern Polytechnical University(NPU), Xi’an, China in 2021, received his B.E. degree and M.E. degree in mechanical engineering from Henan University of Science and Technology in 2012 and Jilin University in 2015, respectively. He is currently an Associate Professor of Industrial Engineering with the School of Management, Zhengzhou University, China. He was also a visiting scholar at Department of Industrial and Manufacturing Engineering at the Pennsylvania State University from 2019 to 2021. Besides, he was also an assistant engineer at 713 Research Institute of China Shipbuilding Industry Corporation from 2015 to 2018. 
 
 # Professional Activities:
-- Editorial Board Member, Mechanical Manufacturing and Automation,<br>
-- Guest Editor, Plos One,<br>
+- Editorial Board Member：Plos One, Mechanical Manufacturing and Automation,<br>
+- Guest Editor: Plos One,<br>
 - SRSE Technical Program Committee Members (International Conference on System Reliability and Safety Engineering: SRSE); <br>
 - APARM Session Moderator (The Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling), QE2MSE Session Moderator (International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering: QE2MSE)；<br>
 - IISE (Member)；IEEE Reliability Society (Member)；IEEE Industrial Electronics Society (Member)；IEEE Computational Intelligence Society (Member)；Operations Research Society of China (Member)；Chinese Society of Optimization, Overall Planning and Economic Mathematics（Member）；<br>
-- Refree: Reliability Engineering & System Safety, Quality Technology & Quantitative Management, Journal of Computing and Information Science in Engineering, Forschung im Ingenieurwesen, Journal of Intellectual Capital.<br>
+- Refree: Reliability Engineering & System Safety, Journal of Clearner Production, Quality Technology & Quantitative Management, Journal of Computing and Information Science in Engineering, Forschung im Ingenieurwesen, Journal of Intellectual Capital.<br>
 
 # Teaching
 《Applied Statistics 》、《Industrial Design Foundation》。
@@ -51,6 +51,7 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 - 孔繁森, **叶正梗**. 生产作业可操作性评价理论方法框架模型研究[J]. 机械工程学报, 2017, 4: 028.<br>
 
 **Conference papers**：<br>
+- Xin wang, Zhiqiang Cai, **Zhenggeng Ye**. Joint Optimization of Serial System Based on Deep Reinforcement Learning [C]. 13th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2024), 2024. <br>
 - **Zhenggeng Ye**, Yongwei Ke, Xin wang, Zhiqiang Cai. Sensor monitoring driven identification of heterogeneous working conditions for machine tool [C]. 13th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2023), IET, 2023. <br>
 - **Zhenggeng Ye**, Zhiqiang Cai, Fuli Zhou, Pan Zhang. Degradation Analysis of Machine Processing Accuracy for Manufacturing Systems with Effect of Unqualified Products [C]. 2020 Annual Reliability and Maintainability Symposium (RAMS). IEEE, 2020: 1-6. <br>
 - **Zhenggeng Ye**, Zhiqiang Cai, Hui Yang. Reliability Analysis of Manufacturing Machine with Degradation and Low-quality Feedstocks [C]. 2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM). IEEE, 2020: 1-5.<br>
@@ -58,6 +59,8 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 
 # Patents：
 - 蔡志强; 韩思杰; 王宇航; 司书宾; 张帅; **叶正梗**. 基于贝叶斯分类器链的涡轴发动机多目标性能预测方法；2021-02-02, 中国, CN202110140394.0.（授权）
+- **叶正梗**; 蔡志强; 司书宾; 王鑫; 柯勇伟; 李丁林; 周福礼. 基于深度强化学习的制造网络维修-检测联合优化方法; 2021-07-04, 中国, CN202310333773.0.(公开)
+- **叶正梗**; 蔡志强; 司书宾; 柯勇伟; 王鑫. 异质工况下机床刀具故障诊断与剩余寿命预测方法; 2023-11-10，中国，CN202310987360.4.(公开)
 
 # Presentations：
 - 2022年中国统筹法优选法及经济数学学会工业工程分会学术交流暨学会年会, 2022.11，“工况监测驱动下的设备动态可靠性评价方法”.<br>
