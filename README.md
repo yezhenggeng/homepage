@@ -15,6 +15,7 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 
 # Professional Activities:
 - Editorial Board Member：Plos One, Mechanical Manufacturing and Automation,<br>
+- Youth Editorial Board：Journal of Reliability Science and Engineering（JRSE）,<br>
 - Guest Editor: Plos One,<br>
 - SRSE Technical Program Committee Members (International Conference on System Reliability and Safety Engineering: SRSE); <br>
 - APARM Session Moderator (The Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling), QE2MSE Session Moderator (International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering: QE2MSE)；<br>
@@ -51,6 +52,8 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 - 孔繁森, **叶正梗**. 生产作业可操作性评价理论方法框架模型研究[J]. 机械工程学报, 2017, 4: 028.<br>
 
 **Conference papers**：<br>
+
+-Qian Qian Zhao, **Zhenggeng Ye**, Il Han Chung, Won Young Yun. Dynamic maintenance optimization of multi-indenture systems [C]. 2024 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM).
 - Xin wang, Zhiqiang Cai, **Zhenggeng Ye**. Joint Optimization of Serial System Based on Deep Reinforcement Learning [C]. 13th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2024), 2024. <br>
 - **Zhenggeng Ye**, Yongwei Ke, Xin wang, Zhiqiang Cai. Sensor monitoring driven identification of heterogeneous working conditions for machine tool [C]. 13th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2023), IET, 2023. <br>
 - **Zhenggeng Ye**, Zhiqiang Cai, Fuli Zhou, Pan Zhang. Degradation Analysis of Machine Processing Accuracy for Manufacturing Systems with Effect of Unqualified Products [C]. 2020 Annual Reliability and Maintainability Symposium (RAMS). IEEE, 2020: 1-6. <br>
@@ -71,6 +74,8 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 - 清华大学主办“ 2018 年全国工业工程博士生学术论坛-暨优秀青年学者学术沙龙”，2018，“ 基于多层次复杂度的工时定额综合研究”.<br>
 
 # Honors and Awards:
+- 2024年管理科学与工程学会优秀博士学位论文支撑计划（B类）获得者；<br>
+- 2024 APARM Best Paper；<br>
 - 2023年度郑州大学创新创业先进工作者；<br>
 - 2023年中国专业学位案例中心收录案例：“数”“智”助推制造业转型升级——格力电器（郑州）的数字化工厂变革之路（第一完成人）；<br>
 - 2023年度第十六届挑战杯河南省大学生课外学术作品优秀指导教师：基于深度学习的加工中心刀具磨损量预测及其工业应用（河南省一等奖）；<br>
