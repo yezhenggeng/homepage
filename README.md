@@ -52,13 +52,15 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 - 孔繁森, **叶正梗**. 生产作业可操作性评价理论方法框架模型研究[J]. 机械工程学报, 2017, 4: 028.<br>
 
 **Conference papers**：<br>
-
 - Qian Qian Zhao, **Zhenggeng Ye**, Il Han Chung, Won Young Yun. Dynamic maintenance optimization of multi-indenture systems [C]. 2024 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM).
-- Xin wang, Zhiqiang Cai, **Zhenggeng Ye**. Joint Optimization of Serial System Based on Deep Reinforcement Learning [C]. 13th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2024), 2024. <br>
+- Xin wang, Zhiqiang Cai, **Zhenggeng Ye**, Shubin Si. Joint Optimization of Serial System Based on Deep Reinforcement Learning [C]. 13th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2024), 2024. <br>
 - **Zhenggeng Ye**, Yongwei Ke, Xin wang, Zhiqiang Cai. Sensor monitoring driven identification of heterogeneous working conditions for machine tool [C]. 13th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering (QR2MSE 2023), IET, 2023. <br>
 - **Zhenggeng Ye**, Zhiqiang Cai, Fuli Zhou, Pan Zhang. Degradation Analysis of Machine Processing Accuracy for Manufacturing Systems with Effect of Unqualified Products [C]. 2020 Annual Reliability and Maintainability Symposium (RAMS). IEEE, 2020: 1-6. <br>
 - **Zhenggeng Ye**, Zhiqiang Cai, Hui Yang. Reliability Analysis of Manufacturing Machine with Degradation and Low-quality Feedstocks [C]. 2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM). IEEE, 2020: 1-5.<br>
 - **Zhenggeng Ye**, Jiachao Cui, Fuli Zhou. Man-hour Estimation Model based on Standard Operation Unit for Flexible Manufacturing System [C]. 13th Global Congress on Manufacturing and Management (GCMM). EDP Sciences, 2017, 100: 02017. <br>
+
+# Book or Chapters:
+- Zhenggeng Ye, Xin Wang, Zhiqiang Cai. Performance Evaluation and Optimization of Multi-stage Manufacturing Systems: A Review. Reliability Analysis and Maintenance Optimization of Complex Systems: Essays in Honor of Professor Won Young Yun on his 65th Birthday, 2025, Springer.
 
 # Patents：
 - 蔡志强; 韩思杰; 王宇航; 司书宾; 张帅; **叶正梗**. 基于贝叶斯分类器链的涡轴发动机多目标性能预测方法；2021-02-02, 中国, CN202110140394.0.（授权）
