@@ -63,7 +63,7 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 - **Zhenggeng Ye**, Jiachao Cui, Fuli Zhou. Man-hour Estimation Model based on Standard Operation Unit for Flexible Manufacturing System [C]. 13th Global Congress on Manufacturing and Management (GCMM). EDP Sciences, 2017, 100: 02017. <br>
 
 # Book or Chapters:
-- Zhenggeng Ye, Xin Wang, Zhiqiang Cai. Performance Evaluation and Optimization of Multi-stage Manufacturing Systems: A Review. Reliability Analysis and Maintenance Optimization of Complex Systems: Essays in Honor of Professor Won Young Yun on his 65th Birthday, 2025, Springer.
+- **Zhenggeng Ye**, Xin Wang, Zhiqiang Cai. Performance Evaluation and Optimization of Multi-stage Manufacturing Systems: A Review. Reliability Analysis and Maintenance Optimization of Complex Systems: Essays in Honor of Professor Won Young Yun on his 65th Birthday, 2025, Springer.
 
 # Patents：
 - 蔡志强; 韩思杰; 王宇航; 司书宾; 张帅; **叶正梗**. 基于贝叶斯分类器链的涡轴发动机多目标性能预测方法；2021-02-02, 中国, CN202110140394.0.（授权）
