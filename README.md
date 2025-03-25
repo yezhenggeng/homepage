@@ -28,7 +28,7 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 
 
 # Foundations 
-- 复杂不确定工况下的数控机床刀具失效风险与剩余寿命柔性预测技术研究，河南省科技攻关，2025.01-2026.12,，主持；<br>
+- 复杂不确定工况下的数控机床刀具失效风险与剩余寿命柔性预测技术研究，河南省科技攻关，2025.01-2026.12，主持；<br>
 - 基于数据融合的多级制造系统质量与可靠性耦合建模与优化， 国家自然科学基金（青年项目），2023.01-2025.12，主持；<br>
 - 质量与可靠性耦合下的制造系统性能分析与优化，郑州大学科研启动项目，2022.01-2023.12，主持；<br>
 - 考虑级联失效的复杂制造系统任务可靠性分析与优化，西北工业大学博士论文创新基金，2020.01-2021.12，主持；<br>
@@ -38,7 +38,7 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 
 # Publications
 **Journal Papers**：<br>
-- **Zhenggeng Ye**, Le Wang, Hui Yang, Zhiqiang Cai. Multivariate failure prognosis of cutting tools under heterogeneous operating conditions. Advanced Engineering Informatics. 2025,65(Part A): 103198.
+- **Zhenggeng Ye**, Le Wang, Hui Yang, Zhiqiang Cai. Multivariate failure prognosis of cutting tools under heterogeneous operating conditions. Advanced Engineering Informatics. 2025, 65(Part A): 103198.
 - Xin Wang, Yongwei Ke, Zhiqiang Cai, **Zhenggeng Ye***. Operation Risk Assessment of Flexible Manufacturing Networks Subject to Quality-reliability Coupling. Reliability Engineering & System Safety. 2024, 250, 110282.<br>
 - Yongwei Ke, Xin Wang, **Zhenggeng Ye***, Shuai Zhang, Zhiqiang Cai. Binary decision diagram-based reliability modeling of phased-mission manufacturing system processing multi-type products. Quality Technology & Quantitative Management, 2024，21(6): 1058–1075.<br>
 - **Zhenggeng Ye**, Zhiqiang Cai, Hui Yang, Shubin Si, Fuli Zhou. Joint optimization of maintenance and quality inspection for manufacturing networks based on deep reinforcement learning. Reliability Engineering & System Safety. 2023, 236, 109290.<br>
