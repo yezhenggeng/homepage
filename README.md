@@ -15,7 +15,7 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 
 # Professional Activities:
 - Editorial Board Member：Plos One, Mechanical Manufacturing and Automation,<br>
-- Youth Editorial Board：Journal of Reliability Science and Engineering（JRSE）, Intelligent Manufacturing.<br>
+- Youth Editorial Board：Journal of Reliability Science and Engineering（JRSE）, Intelligent Manufacturing(智能制造).<br>
 - Guest Editor: Plos One,<br>
 - SRSE Technical Program Committee Members (International Conference on System Reliability and Safety Engineering: SRSE); <br>
 - ICRE Technical Program Committee Members (2024 International Conference on Reliability Engineering)
@@ -38,6 +38,7 @@ Zhenggeng Ye received his Ph.D degree in management science and engineering from
 
 # Publications
 **Journal Papers**：<br>
+- **Zhenggeng Ye**, Zhiqiang Cai, Hui Yang, Shubin Si, Qian Qian Zhao. Enhancing adaptive failure risk prognosis for cutting tools in heterogeneous working environments: A comprehensive modeling framework.Expert Systems with Applications.2025, 280(5):127527.
 - **Zhenggeng Ye**, Le Wang, Hui Yang, Zhiqiang Cai. Multivariate failure prognosis of cutting tools under heterogeneous operating conditions. Advanced Engineering Informatics. 2025, 65(Part A): 103198.
 - Xin Wang, Yongwei Ke, Zhiqiang Cai, **Zhenggeng Ye***. Operation Risk Assessment of Flexible Manufacturing Networks Subject to Quality-reliability Coupling. Reliability Engineering & System Safety. 2024, 250, 110282.<br>
 - Yongwei Ke, Xin Wang, **Zhenggeng Ye***, Shuai Zhang, Zhiqiang Cai. Binary decision diagram-based reliability modeling of phased-mission manufacturing system processing multi-type products. Quality Technology & Quantitative Management, 2024，21(6): 1058–1075.<br>
